@@ -1,15 +1,8 @@
 # Hey 👋, I'm Sanchit!
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="max-width: 60%;">
-    Hello! I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
+I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
 
-    I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks, where I have received 750k reads. My app, published on the Play Store, is rated 4.8 stars, and my courses on Unacademy have also earned a 4.8-star rating. Feel free to connect with me!
-  </div>
-  <div style="max-width: 35%;">
-    ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
-  </div>
-</div>
+I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks, where I have received 750k reads. My app, published on the Play Store, is rated 4.8 stars, and my courses on Unacademy have also earned a 4.8-star rating. Feel free to connect with me!
 
 ## Technical Skills
 
@@ -61,6 +54,9 @@
     </td>
   </tr>
 </table>
+
+## GitHub Public Repository Stats
+![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
 
 ## Connect with me:
 <p align="left">
