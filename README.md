@@ -1,8 +1,15 @@
 # Hey 👋, I'm Sanchit!
 
-Hello! I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="max-width: 60%;">
+    Hello! I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
 
-I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks, where I have received 750k reads. My app, published on the Play Store, is rated 4.8 stars, and my courses on Unacademy have also earned a 4.8-star rating. Feel free to connect with me!
+    I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks, where I have received 750k reads. My app, published on the Play Store, is rated 4.8 stars, and my courses on Unacademy have also earned a 4.8-star rating. Feel free to connect with me!
+  </div>
+  <div style="max-width: 35%;">
+    ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
+  </div>
+</div>
 
 ## Technical Skills
 
@@ -46,7 +53,6 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
@@ -56,13 +62,9 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
   </tr>
 </table>
 
-## GitHub Public Repository Stats
-![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:sanchit0496@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://medium.com/@sanchit0496" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" height="30" width="40" /></a>
 </p>
-
