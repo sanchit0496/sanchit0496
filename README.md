@@ -1,8 +1,8 @@
 # Hey 👋, I'm Sanchit!
 
-I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
+Hello! I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
 
-I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks. I have also enjoyed being an educator at Unacademy. Moreover, I have published my app on the Play Store. Feel free to connect with me!
+I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks, where I have received 750k reads. My app, published on the Play Store, is rated 4.8 stars, and my courses on Unacademy have also earned a 4.8-star rating. Feel free to connect with me!
 
 ## Technical Skills
 
@@ -56,13 +56,9 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
   </tr>
 </table>
 
-
-
 ## GitHub Public Repository Stats
 ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
 
-
-## Connect with me:
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
