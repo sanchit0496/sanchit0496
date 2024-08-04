@@ -1,7 +1,7 @@
 # Hey 👋, I'm Sanchit!
 
 ## About Me 🚀
-Hello 
+Currently working as Software Engineering Specialist at Dassault Systèmes, coding since 2016. I received the Google India Nanodegree Scholarship for Front End Development in 2018 and was a top 25 innovator in the India Innovation Initiative and a semi-finalist in the 3M Young Innovators Challenge Awards the same year
 
 ## Technical Skills
 
@@ -60,8 +60,9 @@ Hello
 ## GitHub Public Repository Stats
 ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
 
+
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:sanchit0496@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:sanchit0496@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
 </p>
