@@ -1,7 +1,8 @@
 # Hey 👋, I'm Sanchit!
 
-## About Me 🚀
-Currently working as Software Engineering Specialist at Dassault Systèmes, coding since 2016. I received the Google India Nanodegree Scholarship for Front End Development in 2018 and was a top 25 innovator in the India Innovation Initiative and a semi-finalist in the 3M Young Innovators Challenge Awards the same year
+I'm currently working as a Software Engineering Specialist at Dassault Systèmes and have been coding since 2016. I was honored to receive the Google India Nanodegree Scholarship for Front End Development in 2018 and was recognized as a top 25 innovator in the India Innovation Initiative. Additionally, I was a semi-finalist in the 3M Young Innovators Challenge Awards the same year.
+
+I love sharing my knowledge by writing technical articles on Medium and GeeksForGeeks. I have also enjoyed being an educator at Unacademy. Moreover, I have published my app on the Play Store. Feel free to connect with me!
 
 ## Technical Skills
 
@@ -62,7 +63,10 @@ Currently working as Software Engineering Specialist at Dassault Systèmes, codi
 
 
 ## Connect with me:
+## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:sanchit0496@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://medium.com/@sanchit0496" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" height="30" width="40" /></a>
 </p>
+
