@@ -3,7 +3,6 @@
 ## About Me 🚀
 Hello 
 
-## Languages and Tools:
 ## Technical Skills
 
 ### Front End:
@@ -17,7 +16,7 @@ Hello
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="JEST" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ### Back End and DBMS:
@@ -32,7 +31,7 @@ Hello
 
 ### App Development:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-native.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 ### Language:
@@ -66,6 +65,7 @@ Hello
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
 </p>
+
 
 
 ## GitHub Public Repository Stats
