@@ -58,6 +58,9 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 ## GitHub Public Repository Stats
 ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact)
+
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
