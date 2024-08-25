@@ -56,10 +56,17 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 </table>
 
 ## GitHub Public Repository Stats
-![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs" alt="Sanchit's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 <p align="left">
