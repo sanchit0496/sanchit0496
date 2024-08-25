@@ -57,10 +57,10 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 
 ## GitHub Public Repository Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sanchit0496">
   <img src="https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs" alt="Sanchit's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/sanchit0496">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
 </a>
 
