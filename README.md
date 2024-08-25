@@ -57,16 +57,12 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
 
 ## GitHub Public Repository Stats
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs" alt="Sanchit's GitHub stats" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchit0496&show_icons=true&theme=transparent&hide=contribs" alt="Sanchit's GitHub stats" />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
+</a>
 
 ## Connect with me:
 <p align="left">
