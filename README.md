@@ -64,6 +64,13 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
