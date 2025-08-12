@@ -64,7 +64,7 @@ I love sharing my knowledge by writing technical articles on Medium and GeeksFor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit0496&layout=compact" alt="Top Languages" />
 </a>
 
-## Connect with me:
+## Connect: 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchit0496/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:sanchit0496@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
