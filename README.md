@@ -34,6 +34,7 @@ Outside of work, I enjoy exploring system design, contributing to open source, a
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge" alt="Qdrant" />
+   <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-2563EB?style=for-the-badge" alt="Model Context Protocol" />
 </p> 
 
 ## GitHub Stats
